@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./icons/capa.png">
 </p>
 
 <br>
@@ -32,7 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online] (https://sitedeviagem.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/site_de_viagens/)
+)
 
 ## 🔖 Layout
 
